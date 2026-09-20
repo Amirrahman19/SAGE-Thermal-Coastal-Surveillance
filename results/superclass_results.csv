@@ -1,0 +1,8 @@
+type,model,boat_map50,boat_map50_95,person_map50,person_map50_95,swimmer_map50,swimmer_map50_95,buoy_map50,buoy_map50_95
+Image-based,RF-DETR,0.630,0.412,0.565,0.289,0.511,0.182,0.133,0.042
+Video-based,YOLO26-P2,0.603,0.373,0.319,0.187,0.693,0.345,0.295,0.182
+Video-based,YOLO26-P2 + YOLOV++,0.574,0.359,0.396,0.214,0.678,0.359,0.247,0.156
+Video-based,YOLOX + YOLOV++,0.884,0.616,0.866,0.590,0.959,0.505,0.537,0.283
+Video-based,SAGE + YOLO26-P2,0.528,0.305,0.450,0.210,0.500,0.188,0.145,0.080
+Video-based,SAGE + YOLO26-P2 + YOLOV++,0.572,0.358,0.388,0.208,0.677,0.360,0.257,0.165
+Video-based,SAGE + YOLOX + YOLOV++,0.835,0.564,0.764,0.493,0.576,0.243,0.518,0.275
